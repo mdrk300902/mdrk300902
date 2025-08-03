@@ -1,27 +1,23 @@
-# Hello, I'm Danish — @mdrk300902
+Hi, I'm Danish (@mdrk300902)
+I'm a recent Computer Science graduate with hands-on experience in Data Science, Machine Learning, and deploying intelligent systems. I enjoy tackling tough data-driven problems and building practical, scalable solutions.
 
-I’m a final-year Computer Science student with strong grasp of Data Science, Machine Learning, and AI/Generative AI. My passion lies in building intelligent systems, solving complex data-driven problems, and staying on the edge of emerging technologies.
+Technical Skills
+Deep learning (CNNs, RNNs, GANs)
 
-## What I Do
-- Designing and training deep learning models (CNNs, RNNs, GANs)
-- Building NLP applications, including language understanding, information extraction, and summarization
-- Exploring Generative AI, including transformers, LLMs, and Retrieval-Augmented Generation (RAG)
-- Analyzing complex datasets using Python, Pandas, NumPy, and Scikit-learn
-- Implementing end-to-end ML pipelines and integrating MLOps practices
+NLP: language understanding, information extraction, summarization
 
-## Currently Focused On
-- Developing intelligent applications using Retrieval-Augmented Generation (RAG) to enhance context-aware responses
-- Researching efficient LLM deployment and scalable inference techniques
-- Deepening expertise in AI model evaluation, interpretability, and real-world deployment
+Python, Pandas, NumPy, Scikit-learn
 
-## Let's Connect
-I'm always open to collaborating on AI/ML projects, research ideas, or open-source initiatives.
+End-to-end ML pipelines and MLOps practices
 
-Reach me at:  
-- LinkedIn: [https://www.linkedin.com/in/your-link/](www.linkedin.com/in/md-danish-raza-khan-01a8232ba)
-  
-- Email: amitydanishkhan@gmail.com  
+Career Interests
+Developing intelligent applications with real-world impact
 
----
+Scalable ML model deployment and robust evaluation
+
+Collaboration on projects that bridge data and decision-making
+
+Contact:
+www.linkedin.com/in/md-danish-raza-khan-01a8232ba | amitydanishkhan@gmail.com
 
 "Building systems that learn is great. Teaching systems to understand is even better."
